@@ -1,0 +1,17 @@
+Создать веб приложение
+
+app_id 7859320
+client_secret VKCS9MVPVv78gaUDnOnQ
+
+Получаем код
+https://oauth.vk.com/authorize?client_id=7859320&display=page&redirect_uri=http://discurs.info/&scope=friends&response_type=code&v=5.130
+code 2d26cd6fbe5dc6cd2f
+
+https://oauth.vk.com/access_token?client_id=7859320&client_secret=VKCS9MVPVv78gaUDnOnQ&redirect_uri=http://discurs.info/&code=2d26cd6fbe5dc6cd2f
+access_token 17b7a680cb097c32414248b6ad73e4ffdb1127f2be8ec1a0ecce2e5a560a1b02b88cd6d6f023c0a56ce4f
+expires_in 86379
+user_id 522142542
+
+https://oauth.vk.com/authorize?client_id=7859320&redirect_uri=https://oauth.vk.com/blank.html&scope=offline,stories,photos,app_widget,groups,docs,manage,wall&response_type=token&v=5.130
+5.122
+
